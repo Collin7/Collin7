@@ -4,7 +4,7 @@ My name is Collin, and I am a self taught software developer, specializing in Ja
 
 - 🔭 I’m currently working on some private repositories mostly projects relating to home automation.
 - 🌱 I’m dabbling in Flutter development as well as Python and Javascript to add as aditional tools in my suite of skills.
-- 📫 How to reach me or just more about me: [My Blog](https://blog.abugslife.co.za/)
+- 📫 How to reach me or just more about me: [A Bugs Life](https://blog.abugslife.co.za/)
 
 <!--
 **Collin7/Collin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
