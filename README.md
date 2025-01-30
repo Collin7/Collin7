@@ -3,7 +3,7 @@
 My name is Collin, and I am a self taught software developer, specializing in Java and Spring Boot!
 
 - 🔭 I’m currently working on some private repositories mostly projects relating to home automation.
-- 🌱 I’m currently learning Flutter development as well as Python to add as aditional tools in my suite of skills.
+- 🌱 I’m dabbling in Flutter development as well as Python and Javascript to add as aditional tools in my suite of skills.
 - 📫 How to reach me or just more about me: [My Blog](https://blog.abugslife.co.za/)
 
 <!--
